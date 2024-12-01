@@ -92,15 +92,6 @@ The application will be available on web and mobile platforms.
 
 ### Mockups and Wireframes
 **[Include your mockups and wireframes here]**
-- You can either build them directly in Figma and export as images or provide links to the files in the Figma community.
-
-![Publish Post Page](https://example.com/mockup.jpg)
-
----
-
-### Activity Diagrams
-**[Include the activity diagram here]**
-- Provide a clear visual representation of user actions versus system activities, either as an image or as links to the diagrams created in your preferred diagramming tool.
 
 ---
 
