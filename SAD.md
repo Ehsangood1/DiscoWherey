@@ -132,7 +132,6 @@ Conclusion:
 This Software Architecture Document (SAD) outlines the architecture for the Discowherey project, focusing on the design and implementation of the frontend and backend components using HTML, CSS, JavaScript, Node.js, and Express. The system is designed to be modular, scalable, and maintainable.
 
 Let me know if you'd like any further adjustments or additional details!
-
             ┌─────────────────────────────────────┐
             │                                     │
             │       HTML+CSS+JS Frontend          │
