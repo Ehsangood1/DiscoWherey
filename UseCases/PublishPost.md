@@ -85,7 +85,8 @@ The application will be available on web and mobile platforms.
 
 
 5.3 **Activity Diagrams**  
-![image](https://github.com/user-attachments/assets/e0e33136-b0ad-4335-88d7-2d6f0fd238b9)
+![image](https://github.com/user-attachments/assets/d56e7e47-58e3-466d-b3df-cc2abc9fd924)
+
 
 ---
 
