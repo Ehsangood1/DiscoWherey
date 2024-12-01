@@ -157,7 +157,7 @@ Our Deployment setup includes a client and a server.
 
             ┌─────────────────────────────────────┐
             │                                     │
-            │          React Frontend             │
+            │       HTML+CSS+JS Frontend          │
             │              Client                 │
             │                                     │
             └────────────────┬────────────────────┘
@@ -165,7 +165,7 @@ Our Deployment setup includes a client and a server.
                              │
        ┌─────────────────────▼─────────────────────┐
        │                                           │
-       │       Node.js + Express Backend           │
+       │           JavaSpring Backend              │
        │                  Server                   │
        │                                           │
        └─────────────────────┬─────────────────────┘
@@ -173,7 +173,7 @@ Our Deployment setup includes a client and a server.
                              │
                              ▼
                  ┌──────────────────────┐
-                 │Database (PostgreSQL) │
+                 │   Database (SQLite)  │
                  │                      │
                  └──────────────────────┘
 
