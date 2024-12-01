@@ -93,7 +93,8 @@ The platform's core aim is to inspire users to explore their cities through:
 3. **Content Management:** Upload and manage reviews, images, and location tags.  
 4. **Guest Access:** Guests can view content but cannot save or post.  
 
-![image](https://github.com/user-attachments/assets/292286de-0b3f-474f-894a-c2525a758c2f)
+
+![DiscoWherey drawio](https://github.com/user-attachments/assets/dc94fb83-d8cb-4a6e-b494-684cb5aa3448)
 
 
 ---
