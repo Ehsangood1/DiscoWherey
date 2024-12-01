@@ -49,7 +49,7 @@ This document describes the technical architecture of the "City Discovery App" p
 
 | Title                                                              | Date       | Publishing Organization |
 | ------------------------------------------------------------------ | ---------- | ----------------------- |
-| [City Discovery Blog](https://example.com)                         | 01.12.2024 | City Discovery          |
+| [City Discovery Blog]([https://example.com](https://ehsangood9.wixsite.com/discowery/post/week-1?referral=business-feed))                         | 01.12.2024 | DiscoWherey          |
 | [GitHub Repository](https://github.com/example/citydiscovery)      | 01.12.2024 | City Discovery          |
 | [SRS](SRS.md)                                                     | 01.12.2024 | City Discovery          |
 
