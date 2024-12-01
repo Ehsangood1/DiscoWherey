@@ -81,6 +81,9 @@ The application will be available on web and mobile platforms.
 5.2 **Wireframes**  
 - Include wireframes that illustrate the layout and placement of each element on the Publish Post Page.
 
+![image](https://github.com/user-attachments/assets/bc589398-fae7-4299-904e-5203d02abc44)
+
+
 5.3 **Activity Diagrams**  
 - Attach simplified activity diagrams that depict user interactions with the Publish Post Page and the corresponding system responses.
 
